@@ -1,3 +1,3 @@
 # student-exam-score-prediction
 
-student-exam-score-prediction-knbeeasetgdmvthtzoijfd
+student-exam-score-prediction-knbeeasetgdmvthtzoijfd.streamlit.app
