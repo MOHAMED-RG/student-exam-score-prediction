@@ -185,6 +185,8 @@ The tuned Random Forest achieved an R² score of approximately **0.852**, compar
 
 The coefficients from the final Linear Regression model were analyzed to understand the relationship between the features and predicted exam scores.
 
+![Feature Importance - Linear Regression](feature_importance.png)
+
 ### Main Findings
 
 - `study_hours_per_day` had the largest positive coefficient.
