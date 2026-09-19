@@ -1,8 +1,10 @@
 # 🎓 Student Exam Score Prediction
 
-A Machine Learning project that predicts a student's exam score based on study habits, lifestyle factors, and academic-related features.
+A Machine Learning project that predicts students' exam scores based on their study habits, lifestyle, attendance, and other academic-related factors.
 
-The project follows an end-to-end Machine Learning workflow, including data cleaning, exploratory data analysis, feature engineering, preprocessing, model training, model comparison, evaluation, and Streamlit deployment.
+The project follows an end-to-end Machine Learning workflow, starting with data cleaning and exploratory data analysis (EDA), followed by feature engineering, preprocessing, model training, evaluation, hyperparameter tuning, and deployment using Streamlit.
+
+The final model is a **Linear Regression model**, which achieved an **R² score of 0.897** on the test set, with an average prediction error of approximately **4.19 exam-score points (MAE)**.
 
 ## 🚀 Live Demo
 
